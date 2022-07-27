@@ -1,4 +1,0 @@
-Total video count: 62
-Total video length(s): 55493 seconds
-Total video length(hms): 15 hours 24 minutes 53 seconds
-Execute at 2022-07-28 02:17:55
