@@ -30,6 +30,7 @@ links = list(filter(None, links)) # remove empty string/line
 # print(links)
 # print()
 for element in links:
+    # element = element.rstrip('</br>')
     if "# CH" in element:
         links.remove(element)
 # print("[LOG] " + str(type(links)))

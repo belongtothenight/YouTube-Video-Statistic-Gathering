@@ -70,7 +70,7 @@ file = open(link_filename, 'w', encoding='utf-8')
 for i in range(len(links)):
     file.write("# " + links[i][0] + '\n')
     for j in range(len(links[i][1])):
-        file.write(links[i][1][j] + '\n')
+        file.write(links[i][1][j] + '</br>\n')
 file.close()
 print("[LOG] Export all video link to file " + link_filename + " successfully!\n")
 
