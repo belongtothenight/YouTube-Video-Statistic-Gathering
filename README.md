@@ -22,24 +22,24 @@ The folder "export" wan't included in this repo because the included links are u
 
 ## Export File Content
 ### all_video_link.md
-'''
-\# file 1.md</br>
+```
+# file 1.md</br>
 http...</br>
 http...</br>
 http...</br>
-\# file 2.md</br>
+# file 2.md</br>
 http...</br>
 http...</br>
 http...</br>
 ......</br>
-'''
+```
 ### video_statistic.txt
-'''
-Total video count: ?
-Total video length(s): ? seconds
-Total video length(hms): ? hours ? minutes ? seconds
-Execute at ?-?-? ?:?:?
-'''
+```
+Total video count: ?</br>
+Total video length(s): ? seconds</br>
+Total video length(hms): ? hours ? minutes ? seconds</br>
+Execute at ?-?-? ?:?:?</br>
+```
 
 ## Requirement
 pytube==12.1.0
