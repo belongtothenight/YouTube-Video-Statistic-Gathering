@@ -1,4 +1,5 @@
 # YouTube-Video-Statistic-Gathering
+## !!ATTENTION!! This repo is archived, and will no longer be updated.
 ## Description
 This repo can read YouTube links from markdown files on the designated local folder, gather all the links and export them into a markdown file with the links categorised internally by filename, and export gathered statistics about both the YouTube links and the process itself.
 
